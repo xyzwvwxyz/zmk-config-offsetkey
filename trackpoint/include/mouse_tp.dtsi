@@ -115,7 +115,7 @@
 
       // Negative Inertia (Default: 6)
       // Makes the TP feel more responsive and "overshoot" less.
-      // tp-neg-inertia = <6>;
+      // tp-neg-inertia = <1>;
 
 
       // Enable clicking by tapping on the TP.
