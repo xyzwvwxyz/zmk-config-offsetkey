@@ -69,7 +69,7 @@ layers:
   - layer1
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
-  - $$mdi:apple-keyboard-option$$
+  - RIGHT GUI
   - layer2
   - $$mdi:apple-keyboard-control$$
   - $$mdi:arrow-left-bold$$
