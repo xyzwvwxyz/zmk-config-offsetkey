@@ -17,22 +17,22 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: main
+      revision: v0.3
       import: app/west.yml
     - name: zmk-pmw3610-driver
       remote: badjeff
-      revision: main
+      revision: v0.3
     - name: zmk-nice-oled
       remote: mctechnology17
-      revision: main
+      revision: v0.3
     - name: zmk-board-eyelash
       remote: eyelash
-      revision: main
+      revision: v0.3
     - name: kb_zmk_ps2_mouse_trackpoint_driver
       remote: infused-kim
-      revision: main
+      revision: v0.3
     - name: zmk-tog-io
       remote: a741725193
-      revision: main 
+      revision: v0.3 
   self:
     path: config
